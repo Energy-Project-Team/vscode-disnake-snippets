@@ -1,0 +1,22 @@
+{
+    "disnake Cog Template": {
+        "prefix": "!cog",
+        "body": [
+            "import discord",
+            "from discord.ext import commands",
+            "",
+            "from models.bot import Bot",
+            "from models.cog import Cog",
+            "",
+            "",
+            "class CogName(Cog):",
+            "    def __init__(self, bot: Bot) -> None:",
+            "        super().__init__(bot)",
+            "",
+            "",
+            "def setup(bot: Bot):",
+            "    bot.add_cog(CogName(bot))"
+        ],
+        "description": "Cog template"
+    }
+}

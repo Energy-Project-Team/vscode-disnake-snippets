@@ -1,0 +1,18 @@
+# vscode files
+.vscode/**
+.vscode-test/**
+
+# github files
+.github/**
+.gitignore
+.gitattributes
+
+# testing files
+*.py
+*.vsix
+
+# examples
+examples/**
+
+# markdown files
+LICENSE

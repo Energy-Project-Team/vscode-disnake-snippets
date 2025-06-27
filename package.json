@@ -1,0 +1,33 @@
+{
+    "name": "disnake-snippets",
+    "displayName": "Disnake Code Snippets",
+    "description": "Code snippets for the disnake package in python",
+    "version": "1.0.0",
+    "publisher": "EnergyProject",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Energy-Project-Team/vscode-disnake-snippets"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^0.10.0"
+    },
+    "keywords": [
+        "disnake",
+        "discord",
+        "energy project",
+        "discord bot",
+        "discord snippets",
+        "disnake snippets",
+        "disnake code snippets"
+    ],
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "python",
+            "path": "./snippets/snippets.code-snippets"
+        }]
+    }
+}
