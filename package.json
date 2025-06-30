@@ -1,6 +1,6 @@
 {
     "name": "disnake-snippets",
-    "displayName": "Disnake Code Snippets",
+    "displayName": "Disnake Snippets",
     "description": "Code snippets for the disnake package in python",
     "version": "1.0.0",
     "publisher": "Energy-Project",
