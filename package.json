@@ -2,11 +2,11 @@
     "name": "disnake-snippets",
     "displayName": "Disnake Snippets",
     "description": "Code snippets for the disnake package in python",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Energy-Project",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Energy-Project-Team/vscode-disnake-snippets"
+        "url": "https://github.com/Energy-Project-Team/Disnake-Snippets"
     },
     "icon": "icon.png",
     "engines": {
