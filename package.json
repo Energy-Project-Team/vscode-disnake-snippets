@@ -2,7 +2,7 @@
     "name": "disnake-snippets",
     "displayName": "Disnake Code Snippets",
     "description": "Code snippets for the disnake package in python",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "publisher": "Energy-Project",
     "repository": {
         "type": "git",
@@ -15,6 +15,7 @@
     "keywords": [
         "disnake",
         "discord",
+        "snippets",
         "energy project",
         "disnake bot",
         "discord bot",
